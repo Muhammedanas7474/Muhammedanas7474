@@ -1,5 +1,5 @@
 # Hi 👋, I'm Muhammed Anas K
-<img src="img.webp" alt="Profile Image" class="inline-image">
+<!-- <img src="img.webp" alt="Profile Image" class="inline-image"> -->
 
 ### A Passionate Python Full Stack Developer Building Scalable Web Applications 🚀
 
@@ -57,8 +57,8 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" width="33%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" width="33%"/>
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" width="33%"/>
-</p>
+</p> -->
