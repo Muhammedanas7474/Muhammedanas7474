@@ -1,7 +1,7 @@
 # Hi 👋, I'm Muhammed Anas K
 <!-- <img src="img.webp" alt="Profile Image" class="inline-image"> -->
 
-### A Passionate Python Full Stack Developer Building Scalable Web Applications 🚀
+### A Passionate Python Full Stack Developer Building Scalable Web Applications 
 
 ---
 
@@ -10,9 +10,9 @@
 - 🔭 Currently focused on building **real-world full stack applications** with clean architecture.
 - 🌱 Continuously improving my skills in **React, Django, and RESTful APIs** while exploring backend performance and best practices.
 - 👨‍💻 Actively working on projects that combine **strong backend logic with modern frontend UI**.
-- 💬 Ask me about **Python, Django, DRF, React, Redux, API design, authentication, and SQL**.
+- 💬 Ask me about **Python, Django, DRF, React, Redux, API design, authentication,jwt, and SQL**.
 - 📫 Reach me at **muhammedanas247474@gmail.com**
-- ⚡ Fun fact: I enjoy debugging complex backend issues more than writing UI 😄
+- ⚡ Fun fact: I enjoy debugging complex backend issues more than writing UI 
 
 ---
 
