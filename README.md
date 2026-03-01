@@ -1,64 +1,120 @@
-# Hi 👋, I'm Muhammed Anas K
-<!-- <img src="img.webp" alt="Profile Image" class="inline-image"> -->
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-### A Passionate Python Full Stack Developer Building Scalable Web Applications 
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Muhammed Anas k</strong>
+</h1>
 
----
+<h3>Full Stack Developer |  • Python • </h3>
 
-### 🔥 My Journey
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-- 🔭 Currently focused on building **real-world full stack applications** with clean architecture.
-- 🌱 Continuously improving my skills in **React, Django, and RESTful APIs** while exploring backend performance and best practices.
-- 👨‍💻 Actively working on projects that combine **strong backend logic with modern frontend UI**.
-- 💬 Ask me about **Python, Django, DRF, React, Redux, API design, authentication,jwt, and SQL**.
-- 📫 Reach me at **muhammedanas247474@gmail.com**
-- ⚡ Fun fact: I enjoy debugging complex backend issues more than writing UI 
+  <p>
+    I'm a python full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+  </p>
 
----
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
 
-### 🛠️ Technologies & Tools I Work With
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://dev.to/midhun-nk">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
+  </a>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65"/><br>Redux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind CSS</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
-    <td align="center"><img src="https://www.django-rest-framework.org/img/logo.png" width="48"/><br>DRF</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" width="40"/><br>Swagger</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br>Postman</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
-    <td align="center"><img src="http://jwt.io/img/icon.svg" width="48"/><br>JWT</td>
-    <td align="center"><img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" width="48"/><br>TanStack</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="48"/><br>NPM</td>
-    <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" width="48"/><br>Chart.js</td>
-  </tr>
+  <a href="https://discord.com/users/midhun_n">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Midhun-Nk">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/mike.devlogs">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/midhun-nk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/mike_devlogs">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/EduMikeStudio">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+
+  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
+
+
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+</td>
+
+
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+</td>
+</tr>
 </table>
+</p>
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+</div>
 
 ---
 
-### 🤝 Connect With Me
+## ❤️ Support Me
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/muhammed-anas-k-b44920357/*
-- 🌐 Portfolio: *(add your portfolio link)*
-- 📧 Email: **muhammedanas247474@gmail.com**
-
----
-
-### 📈 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" width="33%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" width="33%"/>
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" width="33%"/>
-</p> -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/midhun_mike">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
