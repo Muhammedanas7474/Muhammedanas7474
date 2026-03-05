@@ -95,41 +95,13 @@
   </tr>
 </table>
 
-### Also Learning
 
+## 📊 Leetcode Stats
 
----
-
-✅ **Added technologies**
-- Docker  
-- FastAPI  
-- Postman  
-- Swagger  
-- RAG (Retrieval Augmented Generation)
-
----
-
-💡 Since you are building projects like **EduFlow with Django + FastAPI + RAG + Docker**, these tools are **very good to highlight in GitHub** for recruiters.
-
-If you want, I can also show you a **🔥 more professional GitHub profile README layout (2026 style)** with:
-- animated tech icons  
-- GitHub stats  
-- contribution graph  
-- visitor counter  
-- project highlights.
-
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="" />
-</div>
+<p align="center">
+   
+  <img src="https://leetcard.jacoblin.cool/Muhammedanask?font=patrick_hand" width="40%" />
+</p>
 
 ---
 
