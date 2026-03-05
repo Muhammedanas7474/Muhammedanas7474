@@ -78,37 +78,45 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="62"/><br>Prettier</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="48"/><br>NPM</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
   </tr>
 
-<tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>SQL
-  </td>
-  <td></td>
-  <td></td>
-</tr>
-
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>SQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swagger" width="48"/><br>Swagger</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="48"/><br>RAG</td>
+  </tr>
 </table>
 
-
 ### Also Learning
-```
-🐍 Python        | Backend Concepts | OOP Principles
-🎯 Django        | API Development  | Database Design
-🗄️ Databases     | Server-side Dev  | Web Hosting
-```
+
 
 ---
+
+✅ **Added technologies**
+- Docker  
+- FastAPI  
+- Postman  
+- Swagger  
+- RAG (Retrieval Augmented Generation)
+
+---
+
+💡 Since you are building projects like **EduFlow with Django + FastAPI + RAG + Docker**, these tools are **very good to highlight in GitHub** for recruiters.
+
+If you want, I can also show you a **🔥 more professional GitHub profile README layout (2026 style)** with:
+- animated tech icons  
+- GitHub stats  
+- contribution graph  
+- visitor counter  
+- project highlights.
 
 
 
