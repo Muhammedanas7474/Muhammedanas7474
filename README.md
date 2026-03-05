@@ -61,41 +61,55 @@
 <br clear="all" />
 
 
-## 🛠️ Skills
-<p align="center">
-<table>
+## 🛠️ Technologies and tools I work with
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62"/><br>Redux Toolkit</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62"/><br>REST API</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="62"/><br>Prettier</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="48"/><br>NPM</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
+  </tr>
+
 <tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,django,nextjs,tailwind,bootstrap" />
-</td>
-
-
-
+  <td></td>
+  <td></td>
+  <td></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>SQL
+  </td>
+  <td></td>
+  <td></td>
 </tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
 
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
-</td>
-</tr>
 </table>
-</p>
+
+
+### Also Learning
+```
+🐍 Python        | Backend Concepts | OOP Principles
+🎯 Django        | API Development  | Database Design
+🗄️ Databases     | Server-side Dev  | Web Hosting
+```
+
+---
+
 
 
 
